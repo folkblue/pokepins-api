@@ -1,0 +1,14 @@
+{
+  "name": "pin-catalog-api",
+  "version": "1.0.0",
+  "description": "Read-only enamel pin catalog API",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
