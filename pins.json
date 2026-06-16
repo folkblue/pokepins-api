@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Galaxy Cat",
+    "imageUrl": "https://example.com/galaxy-cat.jpg",
+    "releaseDate": "2024-06-01",
+    "origin": "USA / MoonPins Studio",
+    "keywords": ["cat", "space", "galaxy", "glow"],
+    "notes": "Glow-in-the-dark enamel, limited run of 100"
+  },
+  {
+    "id": 2,
+    "name": "Cherry Fox",
+    "imageUrl": "https://example.com/cherry-fox.jpg",
+    "releaseDate": "2023-11-15",
+    "origin": "Japan / HanaPins",
+    "keywords": ["fox", "cherry", "nature", "pink"],
+    "notes": "Soft enamel with glitter details"
+  },
+  {
+    "id": 3,
+    "name": "Moon Rabbit",
+    "imageUrl": "https://example.com/moon-rabbit.jpg",
+    "releaseDate": "2025-02-10",
+    "origin": "South Korea / LunarPins",
+    "keywords": ["rabbit", "moon", "lunar", "cute"],
+    "notes": "Pastel enamel with silver plating"
+  }
+]
